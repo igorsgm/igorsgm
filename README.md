@@ -1,5 +1,5 @@
 <h2 align="center">Hi there, I'm <a title="Igor's website" href="https://igormoraes.dev">Igor Moraes</a> 👋</h2>
-<h4 align="center">A passionate full-stack developer from Brazil, currently living in Canada.</h3>
+<h4 align="center">Passionate about technology especially in Web (front-end & back-end), desktop, and mobile apps.</h3>
 
 ### Languages and Tools:
 
