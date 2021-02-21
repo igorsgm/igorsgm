@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm [Igor!](https://igormoraes.dev) 👋
 
-<!--
-**igorsgm/igorsgm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
+<br />
 
-Here are some ideas to get you started:
+<!--- 
+  if you have forked this to use on your profile, 
+  Change the `github-readme-stats-igorsgm.vercel.app` to `github-readme-stats.vercel.app` 
+--->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Change the `github-readme-stats-igorsgm.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+<a href="https://github.com/igorsgm">
+  <img align="center" src="https://github-readme-stats-igorsgm.vercel.app/api/wakatime?username=@igorsgm&theme=dark&layout=compact&custom_title=For%20a%20year%20now%20I%20spent%20my%20time%20on" alt="Igor Moraes' Wakatime stats" />
+</a>
+<a href="https://github.com/igorsgm/github-readme-stats">
+  <!-- Change the `github-readme-stats-igorsgm.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-igorsgm.vercel.app/api?username=igorsgm&show_icons=true&include_all_commits=true&theme=dark" />
+</a>
