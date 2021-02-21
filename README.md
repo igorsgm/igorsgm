@@ -1,6 +1,5 @@
 <h2 align="center">Hi there, I'm <a title="Igor's website" href="https://igormoraes.dev">Igor Moraes</a> 👋</h2>
 <h4 align="center">A passionate full-stack developer from Brazil, currently living in Canada.</h3>
-<br>
 
 ### Languages and Tools:
 
@@ -13,6 +12,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="26"/>
     <!--bash-->
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="20" height="26"/>
+    &nbsp;&nbsp;
     <!--laravel-->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="26" height="26"/>
     <!--nodejs-->
@@ -31,6 +31,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="26" height="26"/>
     <!--tailwind-->
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="26" height="26"/>
+    &nbsp;&nbsp;
     <!--quasar-->
     <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="26" height="26"/>
     <!--apachecordova-->
@@ -39,6 +40,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="26" height="26"/>
     <!--ionic-->
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="26" height="26"/>
+    &nbsp;&nbsp;
     <!--mysql-->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="26" height="26"/>
     <!--postgresql-->
@@ -47,6 +49,7 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="26" height="26"/>
     <!--oracle-->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="26" height="26"/>
+    &nbsp;&nbsp;
     <!--git-->
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26" height="26"/>
     <!--docker-->
