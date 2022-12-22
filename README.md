@@ -63,8 +63,8 @@
 
 <!-- Change the `github-readme-stats-igorsgm.vercel.app` to `github-readme-stats.vercel.app`  -->
 <a href="https://github.com/igorsgm">
-  <img align="center" src="https://github-readme-stats-igorsgm.vercel.app/api?username=igorsgm&show_icons=true&theme=dark&line_height=24.8&include_all_commits=true&count_private=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-igorsgm.vercel.app/api/wakatime?username=@igorsgm&theme=dark&layout=compact&custom_title=Wakatime Stats (last 365 days)" alt="Igor Moraes' Wakatime Stats" />
 </a>
 <a href="https://github.com/igorsgm">
-  <img align="center" src="https://github-readme-stats-igorsgm.vercel.app/api/wakatime?username=@igorsgm&theme=dark&layout=compact&custom_title=Wakatime Stats (last 365 days)" alt="Igor Moraes' Wakatime Stats" />
+  <img align="center" src="https://github-readme-stats-igorsgm.vercel.app/api?username=igorsgm&show_icons=true&theme=dark&line_height=24.8&include_all_commits=true&count_private=true&hide_border=true" />
 </a>
